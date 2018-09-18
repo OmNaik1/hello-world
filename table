@@ -1,0 +1,12 @@
+<html>
+<head>
+</head>
+<body>
+<table border=1>
+<tr>
+<td>Name</td>
+<td>Age</td>
+</tr><tr><td>Omprakash</td><td>17</td></tr>
+<tr><td>Shravan</td><td>18</td></tr></table>
+</body>
+</html>
